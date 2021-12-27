@@ -1,7 +1,7 @@
  Olá! Me chamo João Vítor!<br>
  24 anos - formado em Engenharia Mecânica.
  Estou entrando no mundo da programação!<br>
- Estou estudando HTML, CSS e Javascrpit
+ Estou estudando HTML, CSS e JavaScrpit
  
  <div>
     <a href="https://github.com/jvroliv">
